@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+<title id="title">What Dhanvant builds</title><desc id="desc">A curated map of engineering interests: backend systems, system design, CI/CD, APIs, observability, offline sync, databases, containers, and developer tools.</desc>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif;fill:#302d26;text-anchor:middle}.accent{fill:#b95330}.soft{fill:#6b7057}@media(prefers-color-scheme:dark){text{fill:#e8e1d7}.accent{fill:#f19a74}.soft{fill:#b5c297}}</style>
+<text x="360" y="65" font-size="43" font-weight="700">BACKEND SYSTEMS</text>
+<text x="230" y="111" font-size="29" class="accent" font-weight="600">System design</text><text x="507" y="111" font-size="32" class="accent" font-weight="600">CI/CD</text>
+<text x="118" y="155" font-size="21" class="soft">APIs</text><text x="293" y="155" font-size="25">Observability</text><text x="535" y="155" font-size="25" class="soft">Offline sync</text>
+<text x="147" y="198" font-size="20">Databases</text><text x="350" y="198" font-size="22" class="accent">Developer tools</text><text x="564" y="198" font-size="20">Containers</text>
+</svg>
