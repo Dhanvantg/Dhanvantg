@@ -123,16 +123,16 @@ Backend developer at **Students’ Union Technical Team** and **BITS Pilani x Po
 **Public repositories by primary language**
 
 ```text
-Python         19 repos  ██████████████░░░░░░   70.4%
-HTML            4 repos  ███░░░░░░░░░░░░░░░░░   14.8%
-Go              2 repos  █░░░░░░░░░░░░░░░░░░░    7.4%
-C               1 repos  █░░░░░░░░░░░░░░░░░░░    3.7%
-PHP             1 repos  █░░░░░░░░░░░░░░░░░░░    3.7%
+Python         20 repos  ██████████████░░░░░░   71.4%
+HTML            4 repos  ███░░░░░░░░░░░░░░░░░   14.3%
+Go              2 repos  █░░░░░░░░░░░░░░░░░░░    7.1%
+C               1 repos  █░░░░░░░░░░░░░░░░░░░    3.6%
+PHP             1 repos  █░░░░░░░░░░░░░░░░░░░    3.6%
 ```
 
 <sub>Owned, non-fork public repositories with a detected primary language. Private and organization work is not included.</sub>
 
-<sub>On GitHub since 2021 · Updated 2026-09-29 UTC</sub>
+<sub>On GitHub since 2021 · Updated 2026-09-30 UTC</sub>
 <!--END_SECTION:github-context-->
 
 <br>
